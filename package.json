@@ -1,0 +1,24 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "description": "async / await in JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEDBED/asyncAwait.git"
+  },
+  "author": "Mohamed Bouhamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MEDBED/asyncAwait/issues"
+  },
+  "homepage": "https://github.com/MEDBED/asyncAwait#readme",
+  "devDependencies": {
+    "node-fetch": "^2.1.2",
+    "restify": "^7.2.0",
+    "restify-cors-middleware": "^1.1.0"
+  }
+}
